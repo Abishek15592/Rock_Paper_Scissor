@@ -1,4 +1,4 @@
-Computer Vision and Abstract of the Project
+# Computer Vision and Abstract of the Project
 
 Computer vision techniques become particularly important in real-time applications due to their fast response, high accuracy, and strong adaptability. Two of the most demanding and widely studied applications relate to object detection and classification. Python’s OpenCV applications have been instrumental in contributing to various technological advancements and projects. OpenCV is a library of programming functions mainly aimed at real-time Computer Vision. We would be utilizing OpenCV to work on a Real-time Hand Gesture Identifying System that can identify Emoticons(emoji) the user shows with his hands. To leverage OpenCV’s capabilities and to integrate them with Machine Learning, CNN is being deployed to enable the computer to understand the images shown. This would help in developing the famous Rock-Paper-Scissor game with the user. The user would be able to interact with the Computer and get responses via images displayed on the screen. 
 
